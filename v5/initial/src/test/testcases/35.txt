@@ -1,0 +1,15 @@
+
+        Function: hi
+        Body:
+        For i=1, i<2, n++ Do
+            If i % 2 == 0 Then write(i);
+            dem:=dem+1;
+            EndFor.
+            If dem = 15 Then
+            dem:=0;
+            writeln(dem); 
+            EndIf.
+        EndFor.
+        readln();
+        EndBody. 
+        

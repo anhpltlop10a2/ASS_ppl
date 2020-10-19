@@ -1,0 +1,22 @@
+
+        Var: b = 8, c = 0xFF, d= {1,9,10}; 
+        Function: test43
+        Parameter: p, v
+        Body:
+        Do 
+            If a - 8 Then z = z + z*2; 
+            ElseIf **elseif** foo(9+foo(4)\foo(3)*5)  Then **for in if**
+            EndIf.
+            For (f = 8, m ,foo(2)+ 8*2)
+            Do 
+                Break; 
+                f = f + 2; 
+                k = k + k[10][100]; 
+                Break;
+                Continue; 
+            EndFor.   
+        m=m[b[5+5*.0.2][2]];
+        While foo(2) + 8 *2 
+        EndDo.
+        EndBody. 
+        

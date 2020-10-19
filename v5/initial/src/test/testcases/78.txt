@@ -1,0 +1,15 @@
+Var: a, m = {5,6,7,{1,5}};
+        Function: pmain
+        Parameter: main, func, xuan_Mai; 
+        Body:  
+            h = {1,2} + {5,8} ; 
+            foo("a",True, a[10]);
+            If t > 8 * ar[5] Then **do nothing** EndIf.
+            For (i = 8, u + v, u *. v)
+            Do 
+                Return a + "t"; 
+                foo(i+1,k,a[10]); 
+            EndFor.
+            Return 8 + a[10][10];
+        EndBody.
+        

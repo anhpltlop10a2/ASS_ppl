@@ -1,0 +1,5 @@
+ Var: i = 8, m, n, k;
+        Function: test_demo
+        Parameter: x,y,z**huhucuocsongkhoquama
+        Body:
+        EndBody.

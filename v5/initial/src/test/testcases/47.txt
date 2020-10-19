@@ -1,0 +1,13 @@
+
+        Var: a,b,c,cv,dt,p=8;
+        Function: square
+        Parameter: d, r
+        Body: 
+            Return a; 
+            write("a" =/= 8);
+            Return b; 
+            write("b" + b);
+            Return square == a * b ; 
+            write(square); 
+        EndBody.
+        

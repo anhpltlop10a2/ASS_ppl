@@ -1,0 +1,28 @@
+Var: a[5] = {5,6,"abc"}, t = True, b = False ; 
+        Function: a
+        Parameter: f
+        Body:  
+            foo("abc" && "xyz"); 
+            If running(root) Then a = 1; ElseIf e >=. 8 Then
+                Do 
+                    While foo("neunhungayay") Do 
+                        If (a + 0xFF) Then running(root); EndIf.
+                        Return a - 8; 
+                    EndWhile.
+                    If (a + 0xFF) Then running(root); EndIf.
+                    a = a[5]; 
+                    u ("a" && 8); 
+                    While c*8 
+                    Do 
+                        If (9 + 10e9) Then 
+                            running(root_left); 
+                            a = 10 - 8 ; 
+                            Return x - y ; 
+                            Break;
+                        EndIf.    
+                    EndWhile.
+                While c - a[5]
+                EndDo.   
+            EndIf. 
+        EndBody.
+        

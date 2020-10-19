@@ -1,0 +1,17 @@
+ Var: a = 2; 
+        Function: main
+        Parameter: a
+        Body:
+        y = "a"; 
+        z[foo(2)*3] = {1.5,9};
+        k[(a)] = 5;
+        a[10+foo(2)][8] =  a(9);  
+        foo(2); 
+        EndBody.
+        Function: abc
+        Parameter: a
+        Body:
+        y = True; 
+        a[10+foo(2)][8] =  a(9);  
+        foo(2); 
+        EndBody.

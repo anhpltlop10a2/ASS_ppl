@@ -1,0 +1,23 @@
+
+        Function: loop
+        Body:
+        If 2 Then i = 0; EndIf.
+        readln();
+        Return a;
+        For (i=1, 2 +3 , 5+6) Do 
+            Return foo(2) + 8 \a[5]; 
+            If 2 Then i = 0; EndIf.
+            Break;
+            If i % 2 Then 
+                write(i);
+                dem = dem + 1 ; 
+                While t(1) Do 
+                    Return t(1) + t(n-1); 
+                    Break;
+                EndWhile.
+            EndIf.  
+            Return a;
+            Continue; 
+        EndFor.
+        EndBody. 
+        

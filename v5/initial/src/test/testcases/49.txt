@@ -1,0 +1,11 @@
+
+        Var: root,left = 4, a = {4,True,5,{False,0xFF,0o47}};
+        Function: giaithua
+        Parameter: n
+        Body: 
+            If n == 1 Then
+                Return 1;
+            Else Return n * giaithua(n-1);
+            EndIf. 
+        EndBody.
+        

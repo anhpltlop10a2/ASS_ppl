@@ -1,0 +1,17 @@
+
+        Function: fibo
+        Parameter: n
+        Body: 
+            If (n == 1) || (n ==2) Then Return 1;
+            Else Return fibonacci(n - 1) + fibonacci(n - 2);
+            EndIf.
+        EndBody.
+        Function: main
+        Parameter: n
+        Body:
+            print ("nhap n: ");
+            cout ("So fibonacci thu Fibonacci(n)");
+            Return 0;
+        EndBody.
+        
+        

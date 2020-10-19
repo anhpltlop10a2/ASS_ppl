@@ -1,0 +1,6 @@
+ Var: m, n = 0.5, k = 10.01e+4;
+        Function: main
+        Parameter: x = 8,y,a[5]
+        Body:
+            x = x +1; 
+        EndBody.

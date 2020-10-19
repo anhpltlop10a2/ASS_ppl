@@ -1,0 +1,11 @@
+ Function: main
+        Parameter: y,z,a
+        Body:
+        While fun() == True Do process(currentNode); 
+        EndWhile.
+        If currentNode_left == null Then enqueue(bfQueue, currentNode_left);
+        EndIf.
+        If currentNode_right != null Then enqueue(bfQueue, currentNode_right);
+        EndIf.
+        EndBody.
+        

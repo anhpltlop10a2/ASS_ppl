@@ -1,0 +1,22 @@
+
+        Var: b = 8, c = 0xFF, d= {1,9,10}; 
+        Function: test43
+        Parameter: p, v
+        Body:
+        Var: foo = 5;
+        Do
+            Continue;
+            Return (p*v)\(r*t);
+            If a - 8 Then z = z + z*2; 
+            ElseIf **elseif** foo(9+foo(4)\foo(3)*5)  Then **for in if**
+                For (f =  l + 8, f,f)
+                Do 
+                    f = f + 2; 
+                    k = k + k[10][100]; 
+                EndFor.
+            EndIf.
+            Break; 
+        While a && True
+        EndDo.
+        EndBody. 
+        

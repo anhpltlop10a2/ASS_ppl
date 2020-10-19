@@ -1,0 +1,21 @@
+
+        Var: root,left = 4,a;
+        Function: id
+        Parameter: n,a,b
+        Body: 
+            For (i=1, i<100, i+2) Do
+                Continue; 
+                Break; 
+                Break; 
+                Return (n -1)*2;
+                a = a * i; 
+                b = b - i; 
+                n = a + b; 
+                Break;
+                Continue; 
+                Break;
+            EndFor.
+            Return a; 
+            Return b; 
+        EndBody.
+        

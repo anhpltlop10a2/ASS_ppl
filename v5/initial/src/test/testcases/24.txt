@@ -1,0 +1,8 @@
+ Var: m, n = {1,5,9}, k = 10.01e+4;
+        Function: test_15
+        Parameter: x,y,z
+        Body:
+            x = x > 2; 
+            If (foo(2) > 3) || (y >= 10) Then x = x + 2; EndIf.
+            While ((p != 2) && (z > 3)) Do **nothing** EndWhile.
+        EndBody.

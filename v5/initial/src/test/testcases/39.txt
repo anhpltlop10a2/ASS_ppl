@@ -1,0 +1,9 @@
+
+        Function: exp_fail
+        Body:
+        For (i=1, 2 +3 , 5+6) Do 
+        a [5+foo(2)][g+8] = a[a+b[0]\5] ;
+        b = a *;
+        EndFor.
+        EndBody. 
+        

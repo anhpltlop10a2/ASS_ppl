@@ -1,0 +1,7 @@
+ 
+        Var: k = 5, m = {2,5} ;
+        Function: test_demo
+        Parameter: x,y,z
+        Body:
+        a[1.2+6] = (5+2) ; 
+        EndBody.

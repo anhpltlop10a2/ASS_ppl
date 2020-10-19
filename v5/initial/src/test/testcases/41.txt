@@ -1,0 +1,12 @@
+
+        Function: test
+        Body:
+        Do
+        a = a \. 2;
+        c[5][5] = foo(3+foo(2)) + True; 
+        a[5] = True || False; 
+        m = True-.True;
+        While a && True
+        EndDo.
+        EndBody. 
+        

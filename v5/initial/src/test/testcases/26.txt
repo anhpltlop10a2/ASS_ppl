@@ -1,0 +1,12 @@
+ Var: a = {1,2,0xFF} , b = "**hi", c ;
+        Function: main
+        **main ne**
+        Parameter: x,y,z
+        **Param **
+        Body:
+        If foo(2) Then x = x + 2; EndIf.
+        a[3 + foo(2)] = {1,2,0};
+        a = (a+b*foo(8));
+        a = "uit";
+        go("a"); 
+        EndBody.

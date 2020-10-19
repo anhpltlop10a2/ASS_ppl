@@ -1,0 +1,8 @@
+ 
+        Function: nam
+        Parameter: x,y,a[20]
+        Body:
+            If(i == term) Then
+            **donothing**
+            EndIf.
+        EndBody.

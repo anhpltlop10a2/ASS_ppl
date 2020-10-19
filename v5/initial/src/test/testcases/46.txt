@@ -1,0 +1,12 @@
+
+    Var: a,b[5]; 
+    Function: main
+    Parameter: p,x
+    Body:
+    If root == valid Then root = newPtr; ElseIf foo(5) Then 
+        foo(6); 
+        taller = true;
+        Return root; 
+    EndIf.
+    EndBody.
+        

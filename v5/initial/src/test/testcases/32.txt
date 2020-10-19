@@ -1,0 +1,8 @@
+ 
+        Var: j,k,i;
+        Function: func
+        Parameter: bkit
+        Body:
+            a = 8; 
+            If (m\8 =/= y % 5) Then a = {1,2,3}; EndIf.
+        EndBody.

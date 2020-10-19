@@ -1,0 +1,16 @@
+
+        Function: composit_Expression
+        Parameter: n
+        Body: 
+            While 5*.2+.5 Do 
+                Break;
+                If n%2 == 0 Then a = a[foo(2) +5 *.5]; EndIf.
+            EndWhile. 
+            Do 
+                p = arr[a[5] + a [foo(2) % 5 \. 9]] ;
+                Break; 
+                Continue; 
+            While arr[5] *. 8
+            EndDo.
+        EndBody.
+        

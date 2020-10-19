@@ -1,0 +1,6 @@
+ Var: a = 8 ;
+        Function: test_demo
+        Parameter: x,y,z
+        Body:
+        a [^ ^]= 52 ; 
+        EndBody.

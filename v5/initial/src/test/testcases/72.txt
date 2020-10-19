@@ -1,0 +1,20 @@
+Var: a, m = {5,6,7,{1,5}};
+        Function: pmain
+        Parameter: k, l, i
+        Body:  
+            Var: param = 5; 
+            If (6>5) Then a()[5] = 4; EndIf.
+            For (a = 8,i\.2,-i) Do
+                a = a + 8 ; 
+                h = h + k; 
+            EndFor. ** endForstm ** 
+            While  y && k
+            Do
+                Do 
+                    a = 8; 
+                    y = y + t[5 - i -k];
+                While y * 8
+                EndDo.
+            EndWhile.
+        EndBody.
+        

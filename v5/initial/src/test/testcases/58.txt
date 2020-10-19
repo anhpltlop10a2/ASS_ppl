@@ -1,0 +1,22 @@
+Var: a[5] = {5,6} ; 
+        Function: a
+        Parameter: f
+        Body: 
+            Var: a = {1,2,3}, b = "abc"; 
+            foo(arr[5] *. 5,True,"abc"); 
+            If (h && k && t + 8) Then a = 1; EndIf. 
+            Do a = a[5]; 
+            While c - 5
+            EndDo.   
+        EndBody.
+        Function: main
+        Body:
+            foo = foo(5+7,2,foo(2)+8)[1]["a"**hi**];
+        EndBody.
+        Function: id_1
+        Parameter: f
+        Body: 
+            Var: a = {1,2,3}; 
+            foo(arr[5] *. 5,True,"abc"); 
+        EndBody.
+        

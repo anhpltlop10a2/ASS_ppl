@@ -1,0 +1,26 @@
+Var: a, m = {5,6,7,{1,5}};
+        Function: pmain
+        Parameter: k, l, i
+        Body:  
+            h = {1,2} + {5,8} ; 
+            foo("a",True, a[10]);
+            If t > 8 * ar[5] Then **do nothing** EndIf.
+            For (i = 8, u + v, u *. v)
+            Do 
+                Do
+                    Break; 
+                    Return r; 
+                    While i + 8
+                    Do 
+                        a = -b + {True,False,8};
+                        a = a + 8; **add**
+                        Break; 
+                        Continue;
+                    EndWhile.
+                    Break;
+                While -u 
+                EndDo.
+            EndFor.
+            Return 8 + a[10][10];
+        EndBody.
+        

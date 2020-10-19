@@ -1,0 +1,12 @@
+
+        Var: a,b,tmp;
+        Function: swap_a_b
+        Parameter: a,b 
+        Body: 
+            If a>b Then
+            tmp=a;
+            a=b;
+            b=tmp;
+            EndIf.
+        EndBody.
+        

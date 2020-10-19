@@ -1,0 +1,9 @@
+
+        Function: fibo
+        Parameter: n
+        Body: 
+            a = -a + 8;
+            If n%2 == 0 Then Return 1;
+            EndIf.
+        EndBody.
+        

@@ -1,0 +1,1 @@
+ Var: hi,a = {True,False,"h"}, d = True, k = False, c = "abc"; 

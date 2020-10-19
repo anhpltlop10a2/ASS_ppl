@@ -1,0 +1,16 @@
+ 
+        Function: nam
+        Parameter: x,y,a[20]
+        Body:
+            If(i == term) Then
+                For(i=8,i<15,i-5) Do
+                x=x+y;
+                r && 8; 
+                EndFor.
+            ElseIf (True) Then
+                **do nothing**
+            Else 
+            a=b+d;
+            foo(2);
+            EndIf.
+        EndBody.

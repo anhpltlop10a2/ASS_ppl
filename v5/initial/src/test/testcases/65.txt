@@ -1,0 +1,20 @@
+Var: a[5] = {5,6,"abc"} ; 
+        Function: a
+        Parameter: f
+        Body:  
+            foo(arr[5] *. 5,True,"abc"); 
+            If running(h =/= 9,"a") Then a = 1; ElseIf e >=. 8 Then **donothing** EndIf. 
+            Do 
+                If (a + 0xFF) Then running(root); EndIf.
+                While foo(9 + a[10]) Do 
+                    If (a + 0xFF) Then running(root); EndIf.
+                EndWhile.
+                a = a[5]; 
+                u ("a" && 8); 
+                While c*8 
+                Do
+                EndWhile.
+            While foo(8)
+            EndDo.   
+        EndBody.
+        

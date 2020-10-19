@@ -1,0 +1,24 @@
+Var: a, b = {5,6,"abc"}, m = 500; 
+        Function: tut
+        Parameter: ppl, ar[10]
+        Body:  
+            Var: param = 5; 
+            foo(!a); 
+            Return a - 2; 
+            arr[foo(a*2)][7+temp] = temp + 1; 
+            For (i = 5, n - i, i - 1) 
+            Do
+                a = a - 1; 
+                Break; 
+                If e != "E" Then 
+                    r = "R"; 
+                    Return r;
+                ElseIf e == "E" Then 
+                    d  = d;
+                    Return d; 
+                Else d = "D"; 
+                EndIf.
+                Return foo(a[5]) ; 
+            EndFor.
+        EndBody.
+        
